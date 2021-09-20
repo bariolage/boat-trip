@@ -1,0 +1,58 @@
+[
+ {
+  "id": "motor-boat",
+  "name": "Bateau à moteur",
+  "details": "Equipés d'un taud de soleil, les bateaux sont confortables (vous pourrez même bénéficier de coussins supplémentaires pour améliorer l'assise), stables, faciles à piloter et polyvalents afin d'accueillir jusqu'à 10 personnes selon le modèle. \n En fonction de votre choix de parcours, nous vous proposerons une balade totalement silencieuse avec les bateaux électriques ou un bateau plus dynamique à moteur thermique. Pour votre confort, nous privilégions les moteurs bicylindres à quatre temps, peu bruyants et à faible émission carbone. \n Une fois enregistrés et équipés des gilets de sauvetage, les consignes de navigation et de sécurité vous sont transmises. \n Vous partez munis d'une carte détaillée de votre circuit qui vous est remise avant l'embarquement. \n Vous voilà tous installés, le fonctionnement du bateau vous est expliqué et vous partez en toute tranquillité effectuer votre promenade.",
+  "options": [
+   {
+    "places": 4,
+    "durationPricing": [30, 40, 80, 110]
+   },
+   {
+    "places": 6,
+    "durationPricing": [35, 45, 95, 130]
+   },
+   {
+    "places": 10,
+    "durationPricing": [40, 55, 105, 145]
+   }
+  ],
+  "image": "https://images.pexels.com/photos/6997485/pexels-photo-6997485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+ },
+ {
+  "id": "canoe-kayak",
+  "name": "Canoë - Kayak",
+  "details": "Seul, à 2, 3 et même 4 (2 adultes et 2 enfants en bas âge), glissez silencieusement à la découverte de la nature en passant par des lieux inaccessibles autrement. \n Nos canoës en bois sont légers et rapides; nos kayaks KALAO, stables et performants, permettent à une famille de deux parents et deux enfants ou à trois adultes de petite corpulence de naviguer très confortablement. \n  Une carte avec les différents itinéraires possibles vous est remise lors du départ. \n Pagaies, gilets de sauvetage (adultes et enfants) et bidon étanche de stockage sont fournis. \n Conditions : Savoir nager et s'immerger. Porter des chaussures. \n Prévoir : Serviette de bain, short de bain, casquette, vêtements de rechange, lunettes de soleil (et cordons) et une protection solaire.",
+  "options": [
+   {
+    "places": [1, 2, 3, 4],
+    "durationPricing": [15, 20, 40, 55]
+   }
+  ],
+  "image": "https://images.pexels.com/photos/1252396/pexels-photo-1252396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+ },
+ {
+  "id": "paddle",
+  "name": "Paddle",
+  "details": "Totalement respectueux de l'environnement, à la fois zen et sportif, le Stand-up Paddle vous permettra de découvrir les canaux du Marais poitevin d'une manière originale. \n Le Stand-Up Paddle convient à tout le monde et peut se pratiquer à tout âge. \n En vous initiant sur les canaux du Marais poitevin, vous trouvez votre équilibre et serez préparés pour des sorties plus sportives en mer. \n Une carte avec les différents itinéraires possibles vous est remise lors du départ. \n Gilets de sauvetage (adultes et enfants) fournis. \n Condition : savoir nager et s'immerger. \n Prévoir: Serviette de bain, short de bain, casquette, vêtements de rechange, lunettes de soleil (et cordons) et une protection solaire.",
+  "options": [
+   {
+    "places": 1,
+    "durationPricing": [15, 20, 40, 55]
+   }
+  ],
+  "image": "https://images.pexels.com/photos/7426143/pexels-photo-7426143.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+ },
+ {
+  "id": "pedalo",
+  "name": "Pedalo",
+  "details": "De 2 à 5 personnes par embarcation, pour profiter de la tranquillité des lieux et du grand bain de soleil arrière ou pour passer un bon moment en famille ou entre amis. \n Une carte avec les différents itinéraires possibles vous est remise lors du départ. \n Gilets de sauvetage (adultes et enfants) fournis.",
+  "options": [
+   {
+    "places": 5,
+    "durationPricing": [15, 20, 40, 55]
+   }
+  ],
+  "image": "https://images.pexels.com/photos/6126/vacation-blue-holidays-boat.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+ }
+]
